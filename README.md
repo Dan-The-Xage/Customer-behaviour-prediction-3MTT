@@ -79,4 +79,5 @@ This repository is licensed under the MIT License.
 
 ## Contact
 
-For questions or suggestions, please open an [issue](https://github.com/yourusername/customer-behaviour-prediction/issues) or contact [your.email@example.com](mailto:your.email@example.com).
+For questions or suggestions, please open an [issue](https://github.com/yourusername/customer-behaviour-prediction/issues) or contact [my mailbox](mailto:ajaychukz01@gmail.com).
+
